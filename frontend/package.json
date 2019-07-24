@@ -21,6 +21,7 @@
     "flag-icon-css": "^3.3.0",
     "font-awesome": "^4.7.0",
     "node-sass": "^4.12.0",
+    "npm-watch": "^0.6.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-app-polyfill": "^1.0.1",
@@ -30,7 +31,8 @@
     "react-router-dom": "^5.0.0",
     "react-test-renderer": "^16.8.6",
     "reactstrap": "^7.1.0",
-    "simple-line-icons": "^2.4.1"
+    "simple-line-icons": "^2.4.1",
+    "watch": "^1.0.2"
   },
   "devDependencies": {
     "react-scripts": "^3.0.1"
