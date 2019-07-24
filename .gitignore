@@ -1,3 +1,2 @@
-#Ignore
-/node_modules
-/frontend/node_modules
+.gitignore
+node_modules
